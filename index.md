@@ -1,1 +1,1 @@
-# Michael Teske
+# Teske Blogosphere
