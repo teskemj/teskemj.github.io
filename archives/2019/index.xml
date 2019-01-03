@@ -6,18 +6,20 @@
     <description>Recent content in 2019 on Teske&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jan 2019 10:53:50 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jan 2019 12:26:02 -0600</lastBuildDate>
     
         <atom:link href="http://teskemj.github.io/archives/2019/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2019 With a Bang</title>
-      <link>http://teskemj.github.io/2019/my-firstpost/</link>
-      <pubDate>Thu, 03 Jan 2019 10:53:50 -0600</pubDate>
+      <title>Enter 2019 With a Bang</title>
+      <link>http://teskemj.github.io/2019/enter-2019-with-a-bang/</link>
+      <pubDate>Thu, 03 Jan 2019 12:26:02 -0600</pubDate>
       
-      <guid>http://teskemj.github.io/2019/my-firstpost/</guid>
-      <description>This is my first post</description>
+      <guid>http://teskemj.github.io/2019/enter-2019-with-a-bang/</guid>
+      <description>Transitioning from WordPress to Github Welcome to my first attempt at moving away from WordPress and over to github.io. This will be a trial run.
+Motivation I wanted to increase my blogs post cadence to more than a few posts a year and leverage MarkDown in the process because that&amp;rsquo;s what the cool kids are doing.
+I looked at WP and in order to add the MD plugin, you had to be a Business Plan subscriber at a mere cough cough $25/month.</description>
     </item>
     
   </channel>
